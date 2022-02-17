@@ -1,0 +1,5 @@
+# Ignoramos los reportes de la carpeta post para no subirlo a github
+posts/*
+# Ignoramos el entorno virtual
+venv/
+my_venv/
