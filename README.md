@@ -42,7 +42,7 @@ source tutorial-env/bin/activate
 ``` 
 3. Install all dependencies using `pip install -r requirements.txt`
 4. You can change the time to wait between each execution of the scraper in the `main.py` file. Just set the variable `time_wait` (minutes)
-5. Run the `main.py` in your console and write your unfamiliar skills in the console (use spaces between every skill that you'll write) to get better results and the scraper will be able to filter the most recent job offers as a Python Developer.
+5. Run the `main.py` in your console and write your unfamiliar skills in the console, use spaces between every skill that you'll write to get better results and the scraper will be able to filter the most recent job offers as a Python Developer.
 
 ![scraper_thumbnail](https://user-images.githubusercontent.com/90936639/154587102-4311b861-9b7e-4eb4-90fe-47a97b248bb1.png)
 
