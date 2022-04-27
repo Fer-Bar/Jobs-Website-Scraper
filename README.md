@@ -46,6 +46,9 @@ source tutorial-env/bin/activate
 
 ![scraper_thumbnail](https://user-images.githubusercontent.com/90936639/154587102-4311b861-9b7e-4eb4-90fe-47a97b248bb1.png)
 
+6. Now you can see the offers in the posts folder.
+
+![posts](https://user-images.githubusercontent.com/90936639/165430651-226df06f-22e1-4c1a-9b53-0918adf6d060.png)
 
 ## Licence
 
