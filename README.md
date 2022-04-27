@@ -3,9 +3,7 @@
   <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/FerBar07" target="_blank">
-    <img alt="Twitter: Fernando Barrientos" src="https://img.shields.io/twitter/follow/FerBar07.svg?style=social" />
-  </a>
+
 </p>
 
 > The project was made using Python, Beautiful Soup and Requests.</br>
