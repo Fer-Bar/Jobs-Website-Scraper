@@ -17,6 +17,13 @@
 ```
 git clone https://github.com/Fer-Bar/Jobs-Website-Scraper.git
 ```
+## Prerequisites:
+ - Python Installed (Recommended version 3.8 or above)
+ - Pip Package Manager (use `pip install selenium`)
+ - Driver for launching the automation (We will use chromedriver.exe). [Check your version](https://chrome://version/)
+   - Be sure to match the version of Chrome you have
+   - [Download From this URL](https://chromedriver.storage.googleapis.com/index.html)
+   
 ## The functionalities added:
 - Show a nicer output of the results
 - Option to filter out jobs that do not meet some skills that are required.
